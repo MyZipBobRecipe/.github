@@ -14,13 +14,13 @@
 
 <br/><br/>
 ### 😉개발에 참여한 팀원들🤗
-|Frontend||
-|:---|:---|
-|FE|[김대현](https://github.com/daehyunk1m)|
-|FE|[오세경](https://github.com/Ohsekyeong)|
-|Backend||
-|BE|[박수정](https://github.com/COVER-SJ)|
-|BE|[신동하](https://github.com/DongDongShin/)|
+|Frontend||Backend||
+|:---|:---|:---|:---|
+|FE|[김대현](https://github.com/daehyunk1m)|BE|[박수정](https://github.com/COVER-SJ)|
+|FE|[오세경](https://github.com/Ohsekyeong)|BE|[신동하](https://github.com/DongDongShin/)|
+
+
+
 
 <br/><br/>
 ## 💡주요기능
