@@ -23,7 +23,7 @@
 
 ###  .
 ## 📃API 명세서
-![image](https://user-images.githubusercontent.com/108795153/189085777-16290169-45e4-4061-9904-ba8a15c8796b.png)
+![image](https://user-images.githubusercontent.com/108795153/189087653-9da84c37-d4e6-46cd-91b5-6d3149afe9cd.png)
 ![image](https://user-images.githubusercontent.com/108795153/189086014-58aa3cf0-aeb8-4501-9750-8315da9f3fc9.png)
 ![image](https://user-images.githubusercontent.com/108795153/189086077-2693c109-19f9-4b3a-b466-6fce9232309f.png)
 ![image](https://user-images.githubusercontent.com/108795153/189086138-c5ab97c7-a3b3-4417-8d9c-8b509d9d174c.png)
