@@ -4,8 +4,20 @@
 #### "우리가 집에서 해먹는 음식들 레시피를 다른 사람들과 공유해보아요"   
 
 #### 📎[집밥레시피 소개 영상 보기](url첨부)
+
 <br/><br/>
 ### ⏰프로젝트 기간 : 2022.09.02.금~ 2022.09.08.목  
+
+<br/><br/>
+### 😉개발에 참여한 팀원들🤗
+|Frontend||
+|:---|:---|
+|FE|[김대현](https://github.com/daehyunk1m)|
+|FE|[오세경](https://github.com/Ohsekyeong)|
+|Backend||
+|BE|[박수정](https://github.com/COVER-SJ)|
+|BE|[신동하](https://github.com/DongDongShin/)|
+
 <br/><br/>
 ## 💡주요기능
 ### 1. 회원 시스템 - 회원가입, 로그인 (이메일, 닉네임)
@@ -27,16 +39,3 @@
 ![image](https://user-images.githubusercontent.com/108795153/189086077-2693c109-19f9-4b3a-b466-6fce9232309f.png)
 ![image](https://user-images.githubusercontent.com/108795153/189086138-c5ab97c7-a3b3-4417-8d9c-8b509d9d174c.png)
 ![image](https://user-images.githubusercontent.com/108795153/189086173-cc9a0986-defe-4168-9568-c859ab261f41.png)
-
-
-<br/><br/>
-### 😉개발에 참여한 팀원들🤗
-|Frontend||
-|:---|:---|
-|FE|[김대현](https://github.com/daehyunk1m)|
-|FE|[오세경](https://github.com/Ohsekyeong)|
-|Backend||
-|BE|[박수정](https://github.com/COVER-SJ)|
-|BE|[신동하](https://github.com/DongDongShin/)|
-
-
