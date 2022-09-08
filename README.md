@@ -31,10 +31,7 @@
 
 <br/><br/>
 ### 😉개발에 참여한 팀원들🤗
-|담당|이름|
-|:---|:---|
-|FE|[김대현](https://github.com/daehyunk1m)|
-|FE|[오세경](https://github.com/Ohsekyeong)|
-|BE|[박수정](https://github.com/COVER-SJ)|
-|BE|[신동하](https://github.com/DongDongShin/)|
+|FE|[김대현](https://github.com/daehyunk1m)|FE|[오세경](https://github.com/Ohsekyeong)|
+|:---|:---|:---|:---|
+|BE|[박수정](https://github.com/COVER-SJ)|BE|[신동하](https://github.com/DongDongShin/)|
 
